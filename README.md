@@ -8,11 +8,11 @@ The Entity relationship diagram showing the relationships and structure of the d
 # Database Schema
 The database consists of the following tables:
 
-Departments: Stores department information
-Students: Contains student personal and academic details
-Courses: Maintains course information by department
-Enrollments: Tracks student course registrations
-Instructors: Stores instructor information
+- Departments: Stores department information
+- Students: Contains student personal and academic details
+- Courses: Maintains course information by department
+- Enrollments: Tracks student course registrations
+- Instructors: Stores instructor information
 
 # TOOLS USED
 - MS SQL Server Management Studio for SQL queries
