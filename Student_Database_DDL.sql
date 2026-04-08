@@ -1,10 +1,10 @@
---reate Database
+--Create Database
 CREATE DATABASE Project_1;
 
 --Use Database
 USE Project_1;
 
---create Table - Students
+--Create Table - Students
 CREATE TABLE Students (
 	StudentID VARCHAR(30) PRIMARY KEY,
 	FirstName NVARCHAR(30) NOT NULL,
