@@ -15,11 +15,11 @@ Enrollments: Tracks student course registrations
 Instructors: Stores instructor information
 
 # TOOLS USED
-*MS SQL Server Management Studio for SQL queries,
-*MS SQL Server Import and Export Data to import data into the database,
+*MS SQL Server Management Studio for SQL queries;
+*MS SQL Server Import and Export Data to import data into the database;
 *dbdiagram.io for ER-Diagram.
 
 # Documentation
-*The table structure explanation,
-*Table relationships,
+*The table structure explanation;
+*Table relationships;
 *The query logic.
